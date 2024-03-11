@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">CustomExoPlayer</string>
+    <string name="logout">Logout</string>
+    <string name="logout_button_descripion">Logout button</string>
+    <string name="back">Back</string>
+    <string name="back_button_descripion">Back Button</string>
+    <string name="start">Start</string>
+    <string name="loading">Loading</string>
+    <string name="play_pause_button">Play/Pause Button</string>
+    <string name="volume_icon">Volume icon</string>
+    <string name="pause_for_30_sec">Are you still there?</string>
+    <string name="pause_for_90_sec">Are you still there?</string>
+    <string name="yes">Yes</string>
+    <string name="yes_still_here">Yes, still here</string>
+    <string name="yes_back">Yes, back to home</string>
+    <string name="close">close</string>
+    <string name="are_you_sure_you_want_to_go_back">Are you sure you want to go back?</string>
+    <string name="label_continue">Continue</string>
+</resources>
